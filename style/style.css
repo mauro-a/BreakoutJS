@@ -1,0 +1,21 @@
+#startScreen {
+	background-color: #000000;
+	width: 640px;
+	height: 480px;
+	margin: 20px;
+	padding: 20px;
+}
+
+#gameName {
+	text-align: center;
+	margin-top: 120px;
+	margin-left: 80px;
+}
+
+#startButton {
+	margin-left: 140px;
+}
+
+#gameCanvas {
+	cursor: none;
+}
